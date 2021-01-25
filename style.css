@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-div{
+    margin: 100px auto;
+    padding: 100px;
+    box-shadow: 5px 5px 20px gray;
+    
+}
+#transaction-area{
+    display: none;
+}
+
+.transaction-card{
+    box-sizing: border-box;
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+
+
+}
+.Deposit{
+    background-color: blue;
+}
+.Withdraw{
+    background-color: green;
+
+}
+.Balance{
+    background-color: orange;
+
+}
+.trisaction-bottom{
+    box-shadow: 5px 5px 20px gray;
+    padding: 25px;
+    margin-left: 5px;
+    border-radius: 10px;
+
+}
